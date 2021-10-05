@@ -1,0 +1,4 @@
+Just a paragraph or two explaining how you'd label each seat in the Hunter Library 
+is sufficient. Make sure there's a line break about every 80 characters so that it
+looks cohesive when viewed in a text editor.
+
