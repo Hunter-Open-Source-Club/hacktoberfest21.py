@@ -11,3 +11,6 @@ An opensource project for Hunter's 2021 Hacktober.
 - Text a phone number which seat you're about to use
 - Our servers update the current state of all the library seats
 - Text that same number for a response on which seats are currently available
+
+###### note: pull requests from Hunter students, especially those in the Google Developer Student Club will be given *priority*
+###### This repository, and it's sibling hacktoberfest repo's are to introduce Hunter College students to open source programming
